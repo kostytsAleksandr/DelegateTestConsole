@@ -1,0 +1,13 @@
+C:\Users\Aleksandr\Documents\GitHub\DelegateTestConsole\DelegateTestConsole\obj\Debug\netcoreapp3.1\DelegateTestConsole.csprojAssemblyReference.cache
+C:\Users\Aleksandr\Documents\GitHub\DelegateTestConsole\DelegateTestConsole\obj\Debug\netcoreapp3.1\DelegateTestConsole.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\Documents\GitHub\DelegateTestConsole\DelegateTestConsole\obj\Debug\netcoreapp3.1\DelegateTestConsole.AssemblyInfo.cs
+C:\Users\Aleksandr\Documents\GitHub\DelegateTestConsole\DelegateTestConsole\obj\Debug\netcoreapp3.1\DelegateTestConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Documents\GitHub\DelegateTestConsole\DelegateTestConsole\bin\Debug\netcoreapp3.1\DelegateTestConsole.exe
+C:\Users\Aleksandr\Documents\GitHub\DelegateTestConsole\DelegateTestConsole\bin\Debug\netcoreapp3.1\DelegateTestConsole.deps.json
+C:\Users\Aleksandr\Documents\GitHub\DelegateTestConsole\DelegateTestConsole\bin\Debug\netcoreapp3.1\DelegateTestConsole.runtimeconfig.json
+C:\Users\Aleksandr\Documents\GitHub\DelegateTestConsole\DelegateTestConsole\bin\Debug\netcoreapp3.1\DelegateTestConsole.runtimeconfig.dev.json
+C:\Users\Aleksandr\Documents\GitHub\DelegateTestConsole\DelegateTestConsole\bin\Debug\netcoreapp3.1\DelegateTestConsole.dll
+C:\Users\Aleksandr\Documents\GitHub\DelegateTestConsole\DelegateTestConsole\bin\Debug\netcoreapp3.1\DelegateTestConsole.pdb
+C:\Users\Aleksandr\Documents\GitHub\DelegateTestConsole\DelegateTestConsole\obj\Debug\netcoreapp3.1\DelegateTestConsole.dll
+C:\Users\Aleksandr\Documents\GitHub\DelegateTestConsole\DelegateTestConsole\obj\Debug\netcoreapp3.1\DelegateTestConsole.pdb
+C:\Users\Aleksandr\Documents\GitHub\DelegateTestConsole\DelegateTestConsole\obj\Debug\netcoreapp3.1\DelegateTestConsole.genruntimeconfig.cache
